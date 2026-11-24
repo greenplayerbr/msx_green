@@ -1,0 +1,14 @@
+"servidores": {
+  "natv":  "http://xp61.org",
+  "azul":   "http://servidor-dois.net:80",
+  "abc123": "http://servidor-tres.com:2095"
+},
+  "player": { "formato_ao_vivo": "m3u8" },
+  "boas_vindas": {
+    "titulo": "Bem-vindo ao Green Player",
+    "texto": "Entre com o código, o usuário e a senha que você recebeu."
+  },
+  "login_qr":     { "ativo": false, "titulo": "", "texto": "", "link": "" },
+  "aviso_inicio": { "ativo": false, "id": "aviso-1", "titulo": "", "texto": "", "link": "", "mostrar": "uma_vez" },
+  "manutencao":   { "ativo": false, "texto": "Estamos em manutenção. Volte daqui a pouco." }
+}
