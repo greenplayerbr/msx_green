@@ -1,6 +1,6 @@
 {
 "servidores": {
-  "natv":  "http://xp61.org",
+  "ntv": ["http://xp61.org", "http://ck03.eu", "http://cdn23.in"],
   "azul":   "http://servidor-dois.net:80",
   "abc123": "http://servidor-tres.com:2095"
 },
