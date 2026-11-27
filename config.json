@@ -1,7 +1,7 @@
 {
 "servidores": {
   "ntv": ["http://xp61.org", "http://ck03.eu", "http://cdn23.in"],
-  "azul":   "http://servidor-dois.net:80",
+  "green":   "https://turbofun.buzz",
   "abc123": "http://servidor-tres.com:2095"
 },
   "player": { "formato_ao_vivo": "m3u8" },
